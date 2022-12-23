@@ -2,7 +2,7 @@
 
 **Ici, nous rassemblons et discutons les meilleurs outils et recherches de DeFi & Blockchain - toute contribution est la bienvenue.**
 
-**N'hésitez pas à soumettre une Pull Request, qu'il s'agisse de petites corrections, de traductions, de documents ou d'outils que vous aimeriez ajouter.**
+**N'hésitez pas à soumettre un Pull Request, qu'il s'agisse de petites corrections, de traductions, de documents ou d'outils que vous aimeriez ajouter.**
 
 [![Support Project](https://img.shields.io/badge/Support-Project-critical)](https://github.com/OffcierCia/DeFi-Developer-Road-Map#support-project) [![Supported by GitCoin](https://img.shields.io/badge/Support%20via-GitCoin-yellowgreen)](https://gitcoin.co/grants/3150/defi-developer-roadmap) [![Supported by LEGO](https://img.shields.io/badge/Supported%20by-LEGO-%2300A3FF)](https://www.notion.so/LEGO-Lido-Ecosystem-Grants-Organisation-d7f0bf0182d44348b6173639d2e8363d) 
   [![Research Base](https://img.shields.io/badge/Research-Base-lightgrey )](https://github.com/OffcierCia/ultimate-defi-research-base)
@@ -93,7 +93,7 @@
 - Langages de niveau supérieur d'Ethereum (**Solidity**, Vyper, LLL, Serpent)
 - Compiler, tester, déployer des smart contracts
 - Interagir avec les smart contracts en utilisant web3.js ou web3.py
-- Lire [Comment fonctionne Ethereum ?](https://www.preethikasireddy.com/post/how-does-ethereum-work-anyway#:~:text=Les%20Ethereum%20blockchain%20 utilise%20un,tokens%20sont%20générés%20et%20attribués.)
+- Lire [Comment fonctionne Ethereum ?](https://www.preethikasireddy.com/post/how-does-ethereum-work-anyway#:~:text=Les%20Ethereum%20blockchain%20utilise%20un,tokens%20sont%20générés%20et%20attribués.)
 - Lisez [cet article] (https://blog.zeppelin.solutions/the-hitchhikers-guide-to-smart-contracts-in-ethereum-848f08001f05)
 - Lire la [documentation Truffle](https://truffleframework.com/docs/) / [documentation Hardhat](https://hardhat.org/getting-started/)
 - Lire la [Documentation Web3](https://web3js.readthedocs.io/en/1.0/) / [Documentation Ethers](https://docs.ethers.io/v5/)
